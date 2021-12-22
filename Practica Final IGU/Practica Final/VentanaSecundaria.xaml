@@ -1,0 +1,39 @@
+﻿<Window x:Class="Practica_Final.VentanaSecundaria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_Final"
+        mc:Ignorable="d"
+        Title="Tablas" Height="500" Width="400" WindowStartupLocation="CenterOwner" ResizeMode="CanMinimize" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ListView Name="listaFechas" SelectionMode="Single" ScrollViewer.VerticalScrollBarVisibility="Visible" 
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto" Margin="15" BorderThickness="0.5" SelectionChanged="listaFechas_SelectionChanged">
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn Header="FECHA" Width="80"
+                                    DisplayMemberBinding="{Binding fecha}"/>
+                    <GridViewColumn Header="TOTAL CALORIAS" Width="120"
+                                    DisplayMemberBinding="{Binding caloriasTotales}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView Name="listaCalorias" Grid.Row="1" SelectionMode="Single" ScrollViewer.VerticalScrollBarVisibility="Auto" 
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto" Margin="15" BorderThickness="0.5">
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn Header="COMIDA" Width="80" DisplayMemberBinding="{Binding comida}"/>
+                    <GridViewColumn Header="CALORIAS" Width="120" DisplayMemberBinding="{Binding calorias}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,69 @@
+﻿<Window x:Class="Practica_Final.VentanaAñadir"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_Final"
+        mc:Ignorable="d"
+        Title="VentanaAñadir" Height="580" Width="500" ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Calendar Margin="0 10" Name="calendario" SelectedDatesChanged="calendario_SelectedDatesChanged" SelectionMode="SingleDate"
+                  />
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="FECHA:" Height="20" Width="120" TextAlignment="Center" Margin="20 50 20 10" Background="AliceBlue"/>
+            <TextBlock Name="textFecha" Grid.Column="1" Height="20" Width="120" TextAlignment="Center" Background="WhiteSmoke"/>
+        </StackPanel>
+        <TextBlock Grid.Row="1" Text="CAL. DESAYUNO:" HorizontalAlignment="Right" TextAlignment="Center" Margin="0 10 20 0" Background="White"
+                   Height="20"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Name="textCalDesayuno" Background="WhiteSmoke" HorizontalAlignment="Left" Margin="20 10 0 0" Width="80"
+                 Height="20" KeyDown="numericTextBox_KeyDown"/>
+
+        <TextBlock Grid.Row="2" Text="CAL. APERITIVO:" HorizontalAlignment="Right" TextAlignment="Center" Margin="0 10 20 0" Background="White"
+                   Height="20"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Name="textCalAperitivo" Background="WhiteSmoke" HorizontalAlignment="Left" Margin="20 10 0 0" Width="80"
+                 Height="20" KeyDown="numericTextBox_KeyDown"/>
+
+        <TextBlock Grid.Row="3" Text="CAL. COMIDA:" HorizontalAlignment="Right" TextAlignment="Center" Margin="0 10 20 0" Background="White" 
+                   Height="20"/>
+        <TextBox Grid.Column="1" Grid.Row="3" Name="textCalComida" Background="WhiteSmoke" HorizontalAlignment="Left" Margin="20 10 0 0" Width="80"
+                 Height="20" KeyDown="numericTextBox_KeyDown"/>
+
+        <TextBlock Grid.Row="4" Text="CAL. MERIENDA:" HorizontalAlignment="Right" TextAlignment="Center" Margin="0 10 20 0" Background="White"
+                   Height="20"/>
+        <TextBox Grid.Column="1" Grid.Row="4" Name="textCalMerienda" Background="WhiteSmoke" HorizontalAlignment="Left" Margin="20 10 0 0" Width="80"
+                 Height="20" KeyDown="numericTextBox_KeyDown"/>
+
+        <TextBlock Grid.Row="5" Text="CAL. CENA:" HorizontalAlignment="Right" TextAlignment="Center" Margin="0 10 20 0" Background="White"
+                   Height="20"/>
+        <TextBox Grid.Column="1" Grid.Row="5" Name="textCalCena" Background="WhiteSmoke" HorizontalAlignment="Left" Margin="20 10 0 0" Width="80"
+                 Height="20" KeyDown="numericTextBox_KeyDown"/>
+
+        <TextBlock Grid.Row="6" Text="CAL. OTROS:" HorizontalAlignment="Right" TextAlignment="Center" Margin="0 10 20 0" Background="White"
+                   Height="20"/>
+        <TextBox Grid.Column="1" Grid.Row="6" Name="textCalOtros" Background="WhiteSmoke" HorizontalAlignment="Left" Margin="20 10 0 0" Width="80"
+                 Height="20" KeyDown="numericTextBox_KeyDown"/>
+
+        <Button Name="botonOk" Content="Ok" Grid.Row="7" Margin="20" Height="20" Width="80" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Click="botonOk_Click"/>
+        <Button Name="botonCancel" Content="Cancelar" Grid.Row="7" Grid.Column="1" Margin="20" Height="20" Width="80" 
+                HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="botonCancel_Click"/>
+
+    </Grid>
+
+</Window>

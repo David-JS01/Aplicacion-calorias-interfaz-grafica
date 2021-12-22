@@ -1,0 +1,54 @@
+﻿<Window x:Class="Practica_Final.VentanaModificar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_Final"
+        mc:Ignorable="d"
+        Title="VentanaModificar" Height="400" Width="500" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <ComboBox Name="combo" Height="30" Width="220" Margin="10" SelectionChanged="combo_SelectionChanged"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <TextBlock Text="DESAYUNO:" Margin="10" TextAlignment="Center" VerticalAlignment="Center" Width="100"/>
+            <TextBox Name="calDesayuno" Margin="10" TextAlignment="Left" VerticalAlignment="Center" Width="100" Background="AntiqueWhite"
+                     KeyDown="numericText_KeyDown"/>
+            <TextBlock Text="APERITIVO:" Margin="10" TextAlignment="Center" VerticalAlignment="Center" Width="100"/>
+            <TextBox Name="calAperitivo" Margin="10" TextAlignment="Left" VerticalAlignment="Center" Width="100" Background="AntiqueWhite"
+                     KeyDown="numericText_KeyDown"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <TextBlock Text="COMIDA:" Margin="10" TextAlignment="Center" VerticalAlignment="Center" Width="100"/>
+            <TextBox Name="calComida" Margin="10" TextAlignment="Left" VerticalAlignment="Center" Width="100" Background="AntiqueWhite"
+                     KeyDown="numericText_KeyDown"/>
+            <TextBlock Text="MERIENDA:" Margin="10" TextAlignment="Center" VerticalAlignment="Center" Width="100"/>
+            <TextBox Name="calMerienda" Margin="10" TextAlignment="Left" VerticalAlignment="Center" Width="100" Background="AntiqueWhite"
+                     KeyDown="numericText_KeyDown"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="3">
+            <TextBlock Text="CENA:" Margin="10" TextAlignment="Center" VerticalAlignment="Center" Width="100"/>
+            <TextBox Name="calCena" Margin="10" TextAlignment="Left" VerticalAlignment="Center" Width="100" Background="AntiqueWhite"
+                     KeyDown="numericText_KeyDown"/>
+            <TextBlock Text="OTROS:" Margin="10" TextAlignment="Center" VerticalAlignment="Center" Width="100"/>
+            <TextBox Name="calOtros" Margin="10" TextAlignment="Left" VerticalAlignment="Center" Width="100" Background="AntiqueWhite"
+                     KeyDown="numericText_KeyDown"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="4" HorizontalAlignment="Right">
+            <Button Content="Ok" Name="botonOk" HorizontalContentAlignment="Center" HorizontalAlignment="Right" Width="80" Margin="20 30"
+                    Click="botonOk_Click" IsEnabled="False"/>
+            <Button Content="Cancelar" Name="botonCancel" HorizontalAlignment="Left" Width="80" Margin="20 30"
+                    Click="botonCancel_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

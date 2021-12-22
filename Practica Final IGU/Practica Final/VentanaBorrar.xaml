@@ -1,0 +1,30 @@
+﻿<Window x:Class="Practica_Final.VentanaBorrar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_Final"
+        mc:Ignorable="d"
+        Title="VentanaBorrar" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <ListView Name="listaFechas" SelectionMode="Multiple" ScrollViewer.VerticalScrollBarVisibility="Visible" 
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto" Margin="15" BorderThickness="0.5" >
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn Header="FECHA" Width="110"
+                                    DisplayMemberBinding="{Binding fecha}"/>
+                    <GridViewColumn Header="TOTAL CALORIAS" Width="120"
+                                    DisplayMemberBinding="{Binding caloriasTotales}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Name="botonBorrar" Content="Borrar" Width="80" Margin="30 20" HorizontalAlignment="Right" Click="botonBorrar_Click"/>
+            <Button Name="botonCancelar" Content="Cancelar" Width="80" Margin="30 20" HorizontalAlignment="Right" Click="botonCancelar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

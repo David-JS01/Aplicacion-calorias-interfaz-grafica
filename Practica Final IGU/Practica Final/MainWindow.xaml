@@ -1,0 +1,95 @@
+﻿<Window x:Class="Practica_Final.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_Final"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" Closing="Window_Closing">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Archivo">
+                <MenuItem Header="_Nuevo" Click="NuevoMenuItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen nuevo archivo.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="_Abrir" Click="AbrirMenuItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen abrir archivo.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="_Guardar" Click="GuardarMenuItem_Click" Name="botonGuardar">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen guardar.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="_Guardar como" Click="GuardarComoMenuItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen guardar.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator />
+                <MenuItem Header="_Cerrar" Click="CerrarMenuItem_Click" >
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen salir.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Editar">
+                <MenuItem Name="botonAñadir" Header="_Añadir" Click="botonAñadir_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen añadir.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Name="botonAnaAleat" Header="Añadir aleatorio" Click="botonAnaAleat_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen añadir.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="_Modificar" Name="botonModificar" Click="botonModificar_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen modificar.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator />
+                <MenuItem Name="botonBorrar" Header="_Borrar" Click="botonBorrar_Click">
+                    <MenuItem.Icon>
+                        <Image Source="imagenes\imagen borrar.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Ver">
+                <MenuItem Name="grafLinea" Header="Grafico de lineas" IsCheckable="True" IsChecked="False" Checked="grafLinea_Checked"
+                          Unchecked="grafLinea_Unchecked"/>
+                <Separator/>
+                <MenuItem Name="botonVentSecund" Header="Ventana secundaria" Click="botonVentSecund_Click"/>
+                <Separator/>
+                <MenuItem Name="botonPreferencias" Header="Ver preferencias" Click="botonPreferencias_Click"/>
+            </MenuItem>
+            <MenuItem Header="Ayuda">
+                <MenuItem Name="ayuda" Header="Manual" Click="ayuda_Click"/>
+            </MenuItem>
+        </Menu>
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <Button Name="botonVolver" Content="Volver" IsEnabled="False" Click="botonVolver_Click"/>
+            <Viewbox Grid.Column="1" Grid.Row="1" Stretch="Fill">
+                <Canvas Name="lienzo" Background="#FFEDEDA9" Height="400" Width="800" Margin="10">
+                    
+                </Canvas>
+
+            </Viewbox>
+           
+            
+        </Grid>
+            
+    </DockPanel>
+
+</Window>

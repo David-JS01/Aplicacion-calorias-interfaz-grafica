@@ -1,0 +1,188 @@
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 2.0\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 3.0\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaBorrar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 4.0\Practica Final\obj\Debug\VentanaBorrar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaBorrar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaBorrar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 5.0\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaBorrar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaBorrar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaPreferencias.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 6.0\Practica Final\obj\Debug\VentanaPreferencias.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaBorrar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaPreferencias.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaBorrar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaPreferencias.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaAyuda.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final 7.0\Practica Final\obj\Debug\VentanaAyuda.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\bin\Debug\Practica Final.exe.config
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\bin\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\bin\Debug\Practica Final.pdb
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaAyuda.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaAñadir.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaBorrar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaModificar.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaPreferencias.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaSecundaria.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\App.g.cs
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final_MarkupCompile.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final_MarkupCompile.lref
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaAyuda.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaAñadir.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaBorrar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaModificar.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaPreferencias.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\VentanaSecundaria.baml
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final.g.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica_Final.Properties.Resources.resources
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final.csproj.GenerateResource.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final.exe
+C:\Users\david\Desktop\UNIVERSIDAD\Tercer Curso\Primer Cuatrimestre\Interfaces Graficas\Practica Final\Practica Final IGU\Practica Final\obj\Debug\Practica Final.pdb
